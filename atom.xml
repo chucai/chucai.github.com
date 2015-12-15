@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[张合全的博客]]></title>
-  <link href="http://chucai.github.com/atom.xml" rel="self"/>
-  <link href="http://chucai.github.com/"/>
-  <updated>2015-12-14T21:24:19+08:00</updated>
-  <id>http://chucai.github.com/</id>
+  <title><![CDATA[张合权的博客]]></title>
+  <link href="http://chucai.github.io/atom.xml" rel="self"/>
+  <link href="http://chucai.github.io/"/>
+  <updated>2015-12-15T11:13:02+08:00</updated>
+  <id>http://chucai.github.io/</id>
   <author>
-    <name><![CDATA[张合全]]></name>
+    <name><![CDATA[张合权]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>

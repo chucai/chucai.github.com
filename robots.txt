@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://chucai.github.com/sitemap.xml 
+Sitemap: http://chucai.github.io/sitemap.xml 
