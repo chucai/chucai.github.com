@@ -1,0 +1,11 @@
+---
+layout: post
+title: "title"
+date: 2015-12-26 09:21:04 +0800
+comments: true
+categories: 
+---
+
+这只是一个简单的测试，我也不知道写些什么
+...
+...........
