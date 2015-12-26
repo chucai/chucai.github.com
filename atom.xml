@@ -4,7 +4,7 @@
   <title><![CDATA[张合权的博客]]></title>
   <link href="http://chucai.github.io/atom.xml" rel="self"/>
   <link href="http://chucai.github.io/"/>
-  <updated>2015-12-15T11:13:02+08:00</updated>
+  <updated>2015-12-26T09:22:39+08:00</updated>
   <id>http://chucai.github.io/</id>
   <author>
     <name><![CDATA[张合权]]></name>
@@ -12,5 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Title]]></title>
+    <link href="http://chucai.github.io/blog/2015/12/26/title/"/>
+    <updated>2015-12-26T09:21:04+08:00</updated>
+    <id>http://chucai.github.io/blog/2015/12/26/title</id>
+    <content type="html"><![CDATA[<p>这只是一个简单的测试，我也不知道写些什么
+&hellip;
+&hellip;&hellip;&hellip;..</p>
+]]></content>
+  </entry>
   
 </feed>
